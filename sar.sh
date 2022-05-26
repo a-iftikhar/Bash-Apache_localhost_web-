@@ -3,7 +3,7 @@
 #instalations first 
 
 sudo apt install sysstat -y
-sudo apt install sshpass
+sudo apt install shpass
 
 #check process and store it in sar command
 
